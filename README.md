@@ -1,12 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:FF69B4&text=About%20Me&fontColor=D6ACE6&fontFamily=Caveat)
+<div align="center">
 
-I've been actively contributing to open source projects and participating in hackathons to strengthen my skills.<br><br>🌍 I'm based in India<br>🧠 I'm currently learning Data Analytics<br>👥 I'm looking to collaborate on Hackathons or projects
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
 
+</div>
 
-# 💻 Some tools I've used and learned:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rhea-15&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=Rhea-15&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=material-palenight)<br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rhea-15&langs_count=4&hide_values=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=Rhea-15&langs_count=4&hide_values=true&theme=material-palenight)
+## ⌨️ About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer%20Engineering%20student%3Bcuriosity%20-%3E%20code.%20code-%3E%20things%20worth%20shiping." alt="Typing SVG" />
+  </a>
+</p>
+
+## 🛸 Fleet Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,mysql,fastapi,nodejs,nextjs,javascript&perline=8"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,supabase,figma&perline=8"/>
+</p>
+
+## 📡 Mission Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rhea-15&show_icons=true&hide=stars,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="160"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+
+## 🌌 Language Galaxy
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rhea-15&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
+</p>
+
+## 🌠 Launch Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rhea-15&theme=dark&hide_border=true&background=0d0d2b&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="55%"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Rhea-15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhea-15&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+## 📡 Open Transmission
+
+<p align="center">
+  <a href="mailto:rhe.xx.m15@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
