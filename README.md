@@ -4,11 +4,9 @@
 
 </div>
 
-## ⌨️ About Me
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring%20Data%20Engineer%3Bcuriosity%20-%3E%20code.%20code-%3E%20things%20worth%20shiping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=curiosity%20-%3E%20code.%20code-%3E%20things%20worth%20shiping." alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,17 +33,14 @@
 </p>
 
 ## 🌠 Launch Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rhea-15&theme=dark&hide_border=true&background=0d0d2b&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Rhea-15&theme=dark&hide_border=true&background=0d0d2b&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="55%" />
 </p>
 
-## 📈 Activity Graph
-
+## 🚀 Open Source Contributions
 <p align="center">
-  <a href="https://github.com/Rhea-15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhea-15&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
+  <img src="https://img.shields.io/badge/SSOC%202026-9%20PRs%20Merged-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributions" />
+  <img src="https://img.shields.io/badge/Rank-%23108-58A6FF?style=for-the-badge&logo=trophy&logoColor=white" alt="SSOC Rank" />
 </p>
 
 ## 📡 Open Transmission
